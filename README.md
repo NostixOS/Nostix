@@ -1,3 +1,7 @@
+FIRST RELEASE 29.02.2024
+
+[NostixOS Discord](https://discord.gg/vQjb4C6e9k)
+
 # NostixOS - Custom Firmware for MagicX XU10
 
 ## Credits
